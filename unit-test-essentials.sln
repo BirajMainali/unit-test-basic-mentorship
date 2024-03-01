@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lorem-app", "lorem-app\lorem-app.csproj", "{5D289141-8749-4A84-8A71-9D6619F8B853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lorem-test", "lorem-test\lorem-test.csproj", "{084206CB-3DDD-4FEB-AAAD-446EEE98B514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D289141-8749-4A84-8A71-9D6619F8B853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D289141-8749-4A84-8A71-9D6619F8B853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D289141-8749-4A84-8A71-9D6619F8B853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D289141-8749-4A84-8A71-9D6619F8B853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084206CB-3DDD-4FEB-AAAD-446EEE98B514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084206CB-3DDD-4FEB-AAAD-446EEE98B514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084206CB-3DDD-4FEB-AAAD-446EEE98B514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084206CB-3DDD-4FEB-AAAD-446EEE98B514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
